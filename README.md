@@ -1,2 +1,2 @@
-# game-search-app
-application for searching games
+# todo-app
+application for todos
